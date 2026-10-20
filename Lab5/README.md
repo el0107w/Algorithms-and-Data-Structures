@@ -66,16 +66,6 @@
 **Вариант 11:** Класс `Tensor` (Тензор). Поля: `data[]`, `dimensions[]`. Метод: свёртка тензоров.
 
 <p align="center"> 
-<img src="./pic1aicd5.png" width="600"> 
-<br> 
-</p>
-
-<p align="center"> 
-<img src="./pic2aicd5.png" width="600"> 
-<br> 
-</p>
-
-<p align="center"> 
 <img src="./pic3aicd5.png" width="600"> 
 <br> 
 </p>
