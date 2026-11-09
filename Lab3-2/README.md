@@ -30,8 +30,6 @@
 4. Реализовать итераторы для поддержки range-based for и совместимости с алгоритмами STL.
 5. Провести амортизированный анализ операции `push_back` и доказать её сложность O(1).
 
-**Ссылка на репозиторий Algorithms-and-Data-Structures на GitHub:** [https://github.com/el0107w/Algorithms-and-Data-Structures](https://github.com/el0107w/Algorithms-and-Data-Structures)
-
 ---
 
 ## Теоретическое обоснование
